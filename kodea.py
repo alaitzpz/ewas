@@ -1,4 +1,4 @@
-#leer el archivo de selected SNPs, 600 lineas
+
 import re
 import csv
 
